@@ -10,7 +10,7 @@ replicaCount: 1
 
 image:
   repository: eazybytes/gatewayserver
-  tag: s14
+  tag: s12
 
 containerPort: 8072
 
